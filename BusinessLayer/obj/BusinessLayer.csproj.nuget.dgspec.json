@@ -1,0 +1,202 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\noor.mohammad\\source\\repos\\ContactUser\\BusinessLayer\\BusinessLayer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\noor.mohammad\\source\\repos\\ContactUser\\BusinessLayer\\BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\noor.mohammad\\source\\repos\\ContactUser\\BusinessLayer\\BusinessLayer.csproj",
+        "projectName": "BusinessLayer",
+        "projectPath": "C:\\Users\\noor.mohammad\\source\\repos\\ContactUser\\BusinessLayer\\BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\noor.mohammad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\noor.mohammad\\source\\repos\\ContactUser\\BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\noor.mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\noor.mohammad\\source\\repos\\ContactUser\\RepositoryLayer\\RepositoryLayer.csproj": {
+                "projectPath": "C:\\Users\\noor.mohammad\\source\\repos\\ContactUser\\RepositoryLayer\\RepositoryLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\noor.mohammad\\source\\repos\\ContactUser\\CommonLayer\\CommonLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\noor.mohammad\\source\\repos\\ContactUser\\CommonLayer\\CommonLayer.csproj",
+        "projectName": "CommonLayer",
+        "projectPath": "C:\\Users\\noor.mohammad\\source\\repos\\ContactUser\\CommonLayer\\CommonLayer.csproj",
+        "packagesPath": "C:\\Users\\noor.mohammad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\noor.mohammad\\source\\repos\\ContactUser\\CommonLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\noor.mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\noor.mohammad\\source\\repos\\ContactUser\\RepositoryLayer\\RepositoryLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\noor.mohammad\\source\\repos\\ContactUser\\RepositoryLayer\\RepositoryLayer.csproj",
+        "projectName": "RepositoryLayer",
+        "projectPath": "C:\\Users\\noor.mohammad\\source\\repos\\ContactUser\\RepositoryLayer\\RepositoryLayer.csproj",
+        "packagesPath": "C:\\Users\\noor.mohammad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\noor.mohammad\\source\\repos\\ContactUser\\RepositoryLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\noor.mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\noor.mohammad\\source\\repos\\ContactUser\\CommonLayer\\CommonLayer.csproj": {
+                "projectPath": "C:\\Users\\noor.mohammad\\source\\repos\\ContactUser\\CommonLayer\\CommonLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

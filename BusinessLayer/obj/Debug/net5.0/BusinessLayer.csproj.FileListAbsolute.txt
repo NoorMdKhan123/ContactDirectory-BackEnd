@@ -1,0 +1,17 @@
+C:\Users\noor.mohammad\source\repos\ContactUser\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\noor.mohammad\source\repos\ContactUser\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noor.mohammad\source\repos\ContactUser\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\noor.mohammad\source\repos\ContactUser\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\noor.mohammad\source\repos\ContactUser\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\noor.mohammad\source\repos\ContactUser\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\noor.mohammad\source\repos\ContactUser\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\noor.mohammad\source\repos\ContactUser\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\noor.mohammad\source\repos\ContactUser\BusinessLayer\bin\Debug\net5.0\CommonLayer.dll
+C:\Users\noor.mohammad\source\repos\ContactUser\BusinessLayer\bin\Debug\net5.0\RepositoryLayer.dll
+C:\Users\noor.mohammad\source\repos\ContactUser\BusinessLayer\bin\Debug\net5.0\RepositoryLayer.pdb
+C:\Users\noor.mohammad\source\repos\ContactUser\BusinessLayer\bin\Debug\net5.0\CommonLayer.pdb
+C:\Users\noor.mohammad\source\repos\ContactUser\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\noor.mohammad\source\repos\ContactUser\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\noor.mohammad\source\repos\ContactUser\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+C:\Users\noor.mohammad\source\repos\ContactUser\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\noor.mohammad\source\repos\ContactUser\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
